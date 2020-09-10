@@ -1,0 +1,10 @@
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\bin\Debug\RedSquirrel - Mouse Macro.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\bin\Debug\RedSquirrel - Mouse Macro.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\bin\Debug\RedSquirrel - Mouse Macro.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\obj\Debug\RedSquirrel___Mouse_Macro.Form1.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\obj\Debug\RedSquirrel___Mouse_Macro.Resources.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\obj\Debug\RedSquirrel - Mouse Macro.vbproj.GenerateResource.Cache
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\obj\Debug\RedSquirrel - Mouse Macro.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\obj\Debug\RedSquirrel - Mouse Macro.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\obj\Debug\RedSquirrel - Mouse Macro.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\Red Squirrel\RedSquirrel - Mouse Macro\RedSquirrel - Mouse Macro\bin\Debug\RedSquirrel - Mouse Macro.exe.config
