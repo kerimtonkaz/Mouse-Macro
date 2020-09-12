@@ -1,6 +1,6 @@
 # Mouse Macro - Source Code (2016)
 
-![Kerim TONKAZ - Mouse Macro](https://i.ibb.co/tZrS2FT/macro.png)
+![Kerim TONKAZ - Mouse Macro](http://git.piednight.com/img/macro.png)
 
 # Özellikler
 
